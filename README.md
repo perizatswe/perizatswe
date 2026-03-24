@@ -1,1 +1,2 @@
-Hi,I'm Nurxatova Perizat
+# Hi,I'm Nurxatova Perizat
+### Web Developer Student
