@@ -1,1 +1,1 @@
-Hi,I'm Nurxatova Perizat
+Hi,I'm Nurxatova Perizat <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycHU1bmMyazBudXhodmU5NzQ3d2gwZXBkbXRoZjVwbzh5aXdmMGQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif"width="50">
